@@ -537,12 +537,6 @@ python client.py --luxasr --llm luxllama
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Acknowledgements
 
 * Furhat Robotics
