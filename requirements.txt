@@ -1,0 +1,15 @@
+torch
+torchaudio
+transformers
+flask
+flask-cors
+sounddevice
+soundfile
+scipy
+numpy
+openai
+furhat-realtime-api
+piper-tts
+langdetect
+huggingface-hub
+pypandoc
